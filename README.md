@@ -1,21 +1,62 @@
-# 💫 About Me:
-I am Sajjad Mahmoody. He is 21 years old and interested in programming
+![MasterHead](https://blog.jetbrains.com/wp-content/uploads/2021/12/php81_never_return_type.gif)
+<h1 align="center">Hi 👋, I'm Sajjad Mahmoody</h1>
+<h3 align="center">A passionate web developer from iran</h3>
+<img  alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" align="right">
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mahmoody#6598) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mahmoodysajjad/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sajjad-mahmoody-aa59b8180/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCeCKFCHalWJvCZLsXvp9w2A) 
+- 🔭 I’m currently working on **freelancer**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sajjadmahmoody&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sajjadmahmoody&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadmahmoody&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning **Dart and flutter**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🤝 I’m looking for help with **Developing a free website**
 
----
-[![](https://visitcount.itsvg.in/api?id=sajjadmahmoody&icon=0&color=0)](https://visitcount.itsvg.in)
+- 💬 Ask me about **html, css, JavaScript,jquery,bootstrap ...**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **hoseinparyab1@gmail.com**
+
+- ⚡ Fun fact **I am hardworking and fun**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hoseinparyab1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoseinparyab1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hosein-paryab-347157226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hosein-paryab-347157226" height="30" width="40" /></a>
+<a href="https://instagram.com/theparyab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theparyab" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/isources" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isources" height="30" width="40" /></a>
+</p>
+<a href="https://discord.gg/8633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8633" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <!-- html -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="html5" width="40" height="40" /> </a>
+            <!-- css -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        alt="css3" width="40" height="40" /> </a> <a href="#" target="_blank" rel="noreferrer"> <img rel="noreferrer">
+        <img rel="noreferrer">
+          <!-- bootstrap -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+              <!-- js -->
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
+            rel="noreferrer">
+              <!-- jquery -->
+            <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg"
+                    width="40" height="40" alt="JQuery" /></a>
+              <!-- php , mysql-->
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                alt="mysql" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"
+            rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+                width="40" height="40" /> </a>
+                 <!-- git -->
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <a
+            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseinparyab&show_icons=true&locale=en&layout=compact" alt="hoseinparyab" /></p>
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoseinparyab&show_icons=true&locale=en" alt="hoseinparyab" /></p>
+
