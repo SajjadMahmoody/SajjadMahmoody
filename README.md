@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **html, css, JavaScript,jquery,bootstrap ...**
 
-- 📫 How to reach me **hoseinparyab1@gmail.com**
+- 📫 How to reach me **maxmahmoody@gmail.com**
 
 - ⚡ Fun fact **I am hardworking and fun**
 
