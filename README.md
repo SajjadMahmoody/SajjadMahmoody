@@ -1,7 +1,4 @@
-<!-- ![MasterHead](https://blog.jetbrains.com/wp-content/uploads/2021/12/php81_never_return_type.gif) -->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![MasterHead](https://cdn.discordapp.com/attachments/681434446893023233/1074748589085052938/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sajjad Mahmoody</h1>
 <h3 align="center">A passionate web developer from iran</h3>
 <img  alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/681434446893023233/1074743406779183205/giphy.webp" align="right">
