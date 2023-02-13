@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/681434446893023233/1074748589085052938/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Sajjad Mahmoody</h1>
 <h3 align="center">A passionate web developer from iran</h3>
 <img  alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/681434446893023233/1074743406779183205/giphy.webp" align="right">
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **maxmahmoody@gmail.com**
 
-- ⚡ Fun fact **Programming is my hobby**
+- ⚡ fact **Programming is my hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
