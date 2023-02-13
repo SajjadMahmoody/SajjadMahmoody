@@ -6,15 +6,13 @@
 
 - 🔭 I’m currently working on **freelancer**
 
-- 🌱 I’m currently learning **Dart and flutter**
+- 🌱 I’m currently learning **Front Developer**
 
 - 🤝 I’m looking for help with **Developing a free website**
 
-- 💬 Ask me about **html, css, JavaScript,jquery,bootstrap ...**
-
 - 📫 How to reach me **maxmahmoody@gmail.com**
 
-- ⚡ Fun fact **I am hardworking and fun**
+- ⚡ Fun fact **Programming is my hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +21,6 @@
 <a href="https://instagram.com/mahmoodysajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoodysajjad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCeCKFCHalWJvCZLsXvp9w2A?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isources" height="30" width="40" /></a>
 </p>
-<a href="https://discord.gg/Mahmoody#6598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8633" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
