@@ -55,5 +55,6 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseinparyab&show_icons=true&locale=en&layout=compact" alt="hoseinparyab" /></p>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoseinparyab&show_icons=true&locale=en" alt="sajjadmahmoody" /></p>
+<p>![state](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadmahmoody&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
