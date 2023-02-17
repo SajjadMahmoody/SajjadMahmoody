@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **maxmahmoody@gmail.com**
 
-- ⚡ in fact **Programming is my hobby**
+- ⚡ In fact, **Programming is my hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
