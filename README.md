@@ -19,7 +19,6 @@
 <a href="https://t.me/sajjadmahmoody" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="sajjadmahmoody" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/sajjad-mahmoody-aa59b8180/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sajjadmahmoody" height="30" width="40" /></a>
 <a href="https://instagram.com/mahmoodysajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoodysajjad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCeCKFCHalWJvCZLsXvp9w2A?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isources" height="30" width="40" /></a>
 </p>
 </p>
 
