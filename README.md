@@ -6,7 +6,7 @@
 
 - 🧑🏻‍💼 I’m currently Intern on **Dornica**
 
-- 🌱 I’m currently learning **Front Developer**
+- 🌱 I’m currently learning **Backend Developer**
 
 - 🤝 I’m looking for help with **Developing a free website**
 
