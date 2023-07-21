@@ -4,6 +4,7 @@
 <img  alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/681434446893023233/1074743406779183205/giphy.webp" align="right">
 
 
+
 - 🧑🏻‍💼 I’m currently Working **Backend Developer** At **Dornica** 
 
 - 🤝 I’m looking for help with **Developing a free website**
