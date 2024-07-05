@@ -5,7 +5,7 @@
 
 
 
-- 🧑🏻‍💼 I’m currently Working **Backend Developer** At **Dornica** 
+- 🧑🏻‍💼 I’m currently working as a **freelancer**
 
 - 🤝 I’m looking for help with **Developing a free website**
 
